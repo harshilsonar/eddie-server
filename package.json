@@ -10,6 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/harshilsonar/eddie-server.git"
   },
+  "dependencies": {
+      "cors": "^2.8.5",
+      "json-serve": "^0.1.0",
+      "json-server": "^0.17.3"
+    },
   "keywords": [],
   "author": "",
   "license": "ISC",
